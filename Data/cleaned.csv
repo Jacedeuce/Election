@@ -1,0 +1,54 @@
+Election,President,Pres_Party,Winning_Votes,Loser,Loser_Party,Losing_Votes,Total_Votes,Majority_Needed
+1789-11-06,George Washington ,F ,69,John Adams ,F ,34,69,35
+1792-11-06,George Washington ,F ,132,John Adams ,F ,77,132,67
+1796-11-06,John Adams ,F ,71,Thomas Jefferson ,D-R,68,138,69
+1800-11-06,Thomas Jefferson ,D-R ,73,Aaron Burr ,D-R ,73,138,70
+1804-11-06,Thomas Jefferson ,D-R ,162,Charles C. Pinckney ,F ,14,176,89
+1808-11-06,James Madison ,D-R ,122,Charles C. Pinckney ,F ,47,175,88
+1812-11-06,James Madison ,D-R ,128,De Witt Clinton ,F ,89,217,109
+1816-11-06,James Monroe ,D-R ,183,Rufus King ,F ,34,217,109
+1820-11-06,James Monroe ,D-R ,231,John Quincy Adams ,N-R ,1,235,118
+1824-11-06,John Quincy Adams ,Coalition ,84,Andrew Jackson ,D-R ,99,261,131
+1828-11-06,Andrew Jackson ,D ,178,John Quincy Adams ,N-R ,83,261,131
+1832-11-06,Andrew Jackson ,D ,219,Henry Clay ,N-R ,49,286,144
+1836-11-06,Martin Van Buren ,D ,170,William Henry Harrison ,W ,73,294,148
+1840-11-06,William Henry Harrison ,W ,234,Martin Van Buren ,D ,60,294,148
+1844-11-06,James K. Polk ,D ,170,Henry Clay ,W ,105,275,138
+1848-11-06,Zachary Taylor ,W ,163,Lewis Cass ,D ,127,290,146
+1852-11-06,Franklin Pierce ,D ,254,Winfield Scott ,W ,42,296,149
+1856-11-06,James Buchanan ,D ,174,John C. Frémont ,R ,114,296,149
+1860-11-06,Abraham Lincoln ,R ,180,John C. Breckinridge ,D ,72,303,152
+1864-11-06,Abraham Lincoln ,R ,212,George B. McClellan ,D ,21,233,117
+1868-11-06,Ulysses S. Grant ,R ,214,Horatio Seymour ,D ,80,294,148
+1872-11-06,Ulysses S. Grant ,R ,286,NA,D-LR ,42,352,177
+1876-11-06,Rutherford B. Hayes ,R ,185,Samuel J. Tilden ,D ,184,369,185
+1880-11-06,James Garfield ,R ,214,Winfield S. Hancock ,D ,155,369,185
+1884-11-06,Grover Cleveland ,D ,219,James G. Blaine ,R ,182,401,201
+1888-11-06,Benjamin Harrison ,R ,233,Grover Cleveland ,D ,168,401,201
+1892-11-06,Grover Cleveland ,D ,277,Benjamin Harrison ,R ,145,444,223
+1896-11-06,William McKinley ,R ,271,William J. Bryan ,D-P ,176,447,224
+1900-11-06,William McKinley ,R ,292,William J. Bryan ,D-P ,155,447,224
+1904-11-06,Theodore Roosevelt ,R ,336,Alton B. Parker ,D ,140,476,239
+1908-11-06,William H. Taft ,R ,321,William J. Bryan ,D ,162,483,242
+1912-11-06,Woodrow Wilson ,D ,435,Theodore Roosevelt ,P ,88,531,266
+1916-11-06,Woodrow Wilson ,D ,277,Charles E. Hughes ,R ,254,531,266
+1920-11-06,Warren G. Harding ,R ,404,James M. Cox ,D ,127,531,266
+1924-11-06,Calvin Coolidge ,R ,382,John W. Davis ,D ,136,531,266
+1928-11-06,Herbert C. Hoover ,R ,444,Alfred E. Smith ,D ,87,531,266
+1932-11-06,Franklin D. Roosevelt ,D ,472,Herbert C. Hoover ,R ,59,531,266
+1936-11-06,Franklin D. Roosevelt ,D ,523,Alfred M. Landon ,R ,8,531,266
+1940-11-06,Franklin D. Roosevelt ,D ,449,Wendell L. Wilkie ,R ,82,531,266
+1944-11-06,Franklin D. Roosevelt ,D ,432,Thomas E. Dewey ,R ,99,531,266
+1948-11-06,Harry S. Truman ,D ,303,Thomas E. Dewey ,R ,189,531,266
+1952-11-06,Dwight D. Eisenhower ,R ,442,Adlai Stevenson ,D ,89,531,266
+1956-11-06,Dwight D. Eisenhower ,R ,457,Adlai Stevenson ,D ,73,531,266
+1960-11-06,John F. Kennedy ,D ,303,Richard M. Nixon ,R ,219,537,269
+1964-11-06,Lyndon B. Johnson ,D ,486,Barry M. Goldwater ,R ,52,538,270
+1968-11-06,Richard M. Nixon ,R ,301,Hubert H. Humphrey ,D ,191,538,270
+1972-11-06,Richard M. Nixon ,R ,520,George S. McGovern ,D ,17,538,270
+1976-11-06,Jimmy Carter ,D ,297,Gerald R. Ford ,R ,240,538,270
+1980-11-06,Ronald Reagan ,R ,489,Jimmy Carter ,D ,49,538,270
+1984-11-06,Ronald Reagan ,R ,525,Walter F. Mondale ,D ,13,538,270
+1988-11-06,George Bush ,R ,426,Michael S. Dukakis ,D ,111,538,270
+1992-11-06,William J. Clinton ,D ,370,George Bush ,R ,168,538,270
+1996-11-06,William J. Clinton ,D ,379,Bob Dole ,R ,159,538,270
