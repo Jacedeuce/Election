@@ -1,0 +1,107 @@
+Election,candidate_name,party_name,votes,win
+1789,George Washington,F,69,TRUE
+1792,George Washington,F,132,TRUE
+1796,John Adams,F,71,TRUE
+1800,Thomas Jefferson,D-R,73,TRUE
+1804,Thomas Jefferson,D-R,162,TRUE
+1808,James Madison,D-R,122,TRUE
+1812,James Madison,D-R,128,TRUE
+1816,James Monroe,D-R,183,TRUE
+1820,James Monroe,D-R,231,TRUE
+1824,John Quincy Adams,Coalition,84,TRUE
+1828,Andrew Jackson,D,178,TRUE
+1832,Andrew Jackson,D,219,TRUE
+1836,Martin Van Buren,D,170,TRUE
+1840,William Henry Harrison,W,234,TRUE
+1844,James K. Polk,D,170,TRUE
+1848,Zachary Taylor,W,163,TRUE
+1852,Franklin Pierce,D,254,TRUE
+1856,James Buchanan,D,174,TRUE
+1860,Abraham Lincoln,R,180,TRUE
+1864,Abraham Lincoln,R,212,TRUE
+1868,Ulysses S. Grant,R,214,TRUE
+1872,Ulysses S. Grant,R,286,TRUE
+1876,Rutherford B. Hayes,R,185,TRUE
+1880,James Garfield,R,214,TRUE
+1884,Grover Cleveland,D,219,TRUE
+1888,Benjamin Harrison,R,233,TRUE
+1892,Grover Cleveland,D,277,TRUE
+1896,William McKinley,R,271,TRUE
+1900,William McKinley,R,292,TRUE
+1904,Theodore Roosevelt,R,336,TRUE
+1908,William H. Taft,R,321,TRUE
+1912,Woodrow Wilson,D,435,TRUE
+1916,Woodrow Wilson,D,277,TRUE
+1920,Warren G. Harding,R,404,TRUE
+1924,Calvin Coolidge,R,382,TRUE
+1928,Herbert C. Hoover,R,444,TRUE
+1932,Franklin D. Roosevelt,D,472,TRUE
+1936,Franklin D. Roosevelt,D,523,TRUE
+1940,Franklin D. Roosevelt,D,449,TRUE
+1944,Franklin D. Roosevelt,D,432,TRUE
+1948,Harry S. Truman,D,303,TRUE
+1952,Dwight D. Eisenhower,R,442,TRUE
+1956,Dwight D. Eisenhower,R,457,TRUE
+1960,John F. Kennedy,D,303,TRUE
+1964,Lyndon B. Johnson,D,486,TRUE
+1968,Richard M. Nixon,R,301,TRUE
+1972,Richard M. Nixon,R,520,TRUE
+1976,Jimmy Carter,D,297,TRUE
+1980,Ronald Reagan,R,489,TRUE
+1984,Ronald Reagan,R,525,TRUE
+1988,George Bush,R,426,TRUE
+1992,William J. Clinton,D,370,TRUE
+1996,William J. Clinton,D,379,TRUE
+1789,John Adams,F,34,FALSE
+1792,John Adams,F,77,FALSE
+1796,Thomas Jefferson,D-R,68,FALSE
+1800,Aaron Burr,D-R,73,FALSE
+1804,Charles C. Pinckney,F,14,FALSE
+1808,Charles C. Pinckney,F,47,FALSE
+1812,De Witt Clinton,F,89,FALSE
+1816,Rufus King,F,34,FALSE
+1820,John Quincy Adams,N-R,1,FALSE
+1824,Andrew Jackson,D-R,99,FALSE
+1828,John Quincy Adams,N-R,83,FALSE
+1832,Henry Clay,N-R,49,FALSE
+1836,William Henry Harrison,W,73,FALSE
+1840,Martin Van Buren,D,60,FALSE
+1844,Henry Clay,W,105,FALSE
+1848,Lewis Cass,D,127,FALSE
+1852,Winfield Scott,W,42,FALSE
+1856,John C. Frémont,R,114,FALSE
+1860,John C. Breckinridge,D,72,FALSE
+1864,George B. McClellan,D,21,FALSE
+1868,Horatio Seymour,D,80,FALSE
+1872,Horace Greeley,D-LR,42,FALSE
+1876,Samuel J. Tilden,D,184,FALSE
+1880,Winfield S. Hancock,D,155,FALSE
+1884,James G. Blaine,R,182,FALSE
+1888,Grover Cleveland,D,168,FALSE
+1892,Benjamin Harrison,R,145,FALSE
+1896,William J. Bryan,D-P,176,FALSE
+1900,William J. Bryan,D-P,155,FALSE
+1904,Alton B. Parker,D,140,FALSE
+1908,William J. Bryan,D,162,FALSE
+1912,Theodore Roosevelt,P,88,FALSE
+1916,Charles E. Hughes,R,254,FALSE
+1920,James M. Cox,D,127,FALSE
+1924,John W. Davis,D,136,FALSE
+1928,Alfred E. Smith,D,87,FALSE
+1932,Herbert C. Hoover,R,59,FALSE
+1936,Alfred M. Landon,R,8,FALSE
+1940,Wendell L. Wilkie,R,82,FALSE
+1944,Thomas E. Dewey,R,99,FALSE
+1948,Thomas E. Dewey,R,189,FALSE
+1952,Adlai Stevenson,D,89,FALSE
+1956,Adlai Stevenson,D,73,FALSE
+1960,Richard M. Nixon,R,219,FALSE
+1964,Barry M. Goldwater,R,52,FALSE
+1968,Hubert H. Humphrey,D,191,FALSE
+1972,George S. McGovern,D,17,FALSE
+1976,Gerald R. Ford,R,240,FALSE
+1980,Jimmy Carter,D,49,FALSE
+1984,Walter F. Mondale,D,13,FALSE
+1988,Michael S. Dukakis,D,111,FALSE
+1992,George Bush,R,168,FALSE
+1996,Bob Dole,R,159,FALSE

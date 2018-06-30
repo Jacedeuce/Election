@@ -1,12 +1,13 @@
 library(tidyverse)
 
+
 #https://stackoverflow.com/questions/22647591/table-of-contents-index-inside-r-file
 # 1 http://r.789695.n4.nabble.com/multiple-values-in-one-column-td4537588.html
 # 2 https://stackoverflow.com/questions/34437534/nested-apply-function
 #https://stat.ethz.ch/R-manual/R-devel/library/base/html/trimws.html
 #https://stackoverflow.com/questions/43662457/convert-list-of-vectors-to-data-frame/43662485
 
-dat <- read_csv("./Election/table.csv")
+dat <- read_csv("~/Projects/Election/Data/table.csv")
 
 dat <- dat %>%
   remove_missing()
@@ -14,7 +15,7 @@ dat <- dat %>%
 
 # 1 -----------------------------------------------------------------------
 get_party <- function(cell){
-  x<-unlist(strsplit(str_remove(cell, "\\]"), "\\["))
+  x<-unlist(strsplit(str_replace(cell, "\\]", ""), "\\["))
   return(c(x[1], x[2]))
 }
 
@@ -88,6 +89,9 @@ df <- cbind(Election, dfw, dfwv, dfl, dflv, dftv)
 #http://www.u-s-history.com/pages/h215.html
 df[df$Election == "1872-11-06", "Loser"] <- "Thomas A. Hendricks"
 df[df$Election == "1872-11-06", "Losing_Votes"] <- 42
+
+write_csv(df, '~/Projects/Election/Data/cleaned.csv')
+
 
 ## HOVERTEXT : https://stackoverflow.com/questions/27965931/tooltip-when-you-mouseover-a-ggplot-on-shiny
 p <- ggplot(df %>% 
